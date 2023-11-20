@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Stacey 👋</h1>
-<h3 align="center">Full-stack Software Engineer based in Sydney</h3>
+<h3 align="center">A full-stack Software Engineer based in Sydney</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/staceyfanner/">🌐 LinkedIn</a> •
