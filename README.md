@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stacey</h1>
-<h3 align="center">Full-stack Software Engineer | Curious Mind</h3>
+<h3 align="center"> A full-stack Software Engineer based in Sydney</h3>
 
 - 🔭 I’m currently working on [Mayday Mum](https://github.com/staceyjf/maydayMum)
 
-- 🌱 I’m currently learning **Python with a focus on Data Analytics**
+- 🌱 I'm currently diving into  **Python with a focus on Data Analytics and embracing a test methology**
 
 - 👨‍💻 All of my key projects are available at [https://staceyfanner.com/](https://staceyfanner.com/)
 
