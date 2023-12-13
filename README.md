@@ -11,12 +11,15 @@
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### 🌱 Learning and Exploring
-- I am currently diving into **Python**, with a keen focus on Data Analytics.
-- I am also passionate about Clean Code, so I'm working on integrating testing into my development [Git repo](https://github.com/staceyjf/pytest_practice).
+- I am currently diving into **Python** and exploring Flask and how this compares to Django.
+- I am also passionate about Clean Code, so I'm working on integrating testing into my development [Git repo](https://github.com/staceyjf/jestTesting).
 
 ### 🚀 Key Projects
 Explore some of my key projects at https://staceyfanner.com/ 
-- **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Live Demo](https://maydaymum.staceyfanner.com/) [Source Code](https://github.com/staceyjf/maydayMum) 
+- **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Live Demo](https://maydaymum.staceyfanner.com/) [Source Code](https://github.com/staceyjf/maydayMum)
+
+## Currently working on
+Foliage Analyst: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, Bootsrap 5, Crispy HTML5, CSS, Git & GitHub [Source Code](https://github.com/staceyjf/foliageAnalyst)
 
 ### 📫 How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
