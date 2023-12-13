@@ -18,7 +18,7 @@ With a background in communication planning, I bring a human-centric approach to
 Explore some of my key projects at https://staceyfanner.com/ 
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Live Demo](https://maydaymum.staceyfanner.com/) [Source Code](https://github.com/staceyjf/maydayMum)
 
-## Currently working on
+### Currently working on
 Foliage Analyst: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, Bootsrap 5, Crispy HTML5, CSS, Git & GitHub [Source Code](https://github.com/staceyjf/foliageAnalyst)
 
 ### 📫 How to Reach Me
