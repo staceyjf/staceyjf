@@ -20,7 +20,7 @@ Explore some of my key projects at https://staceyfanner.com/
 
 ### Currently working on
 - **Christmas card**: Fun play around with vanilla CSS, JS and HTML [Live Demo](https://staceyjf.github.io/Chrissy23/) [Source Code](https://github.com/staceyjf/Chrissy23)
-- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, Bootsrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)  
+- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)  
 
 ### 📫 How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
