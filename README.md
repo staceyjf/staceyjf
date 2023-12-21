@@ -48,3 +48,5 @@ Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, op
 [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>](https://github.com/)
 [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>](https://heroku.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>](https://www.linux.org/)
+[<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>](https://aws.amazon.com/)
+
