@@ -19,8 +19,9 @@ Explore some of my key projects at https://staceyfanner.com/
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Live Demo](https://maydaymum.staceyfanner.com/) [Source Code](https://github.com/staceyjf/maydayMum)
 
 ### Currently working on
-- **Christmas card**: Fun play around with vanilla CSS, JS and HTML [Live Demo](https://staceyjf.github.io/Chrissy23/) [Source Code](https://github.com/staceyjf/Chrissy23)
-- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)  
+- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)
+- **Women who code Python 60 day challenge [Source Code] https://github.com/staceyjf/WWW_python_challenge
+- **Women who code Cloud Bingo challenge 
 
 ### 📫 How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
