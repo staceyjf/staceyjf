@@ -20,8 +20,8 @@ Explore some of my key projects at https://staceyfanner.com/
 
 ### Currently working on
 - **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)
-- **Women who code Python 60 day challenge [Source Code] https://github.com/staceyjf/WWW_python_challenge
-- **Women who code Cloud Bingo challenge 
+- **Women who code Python 60 day challenge** [Source Code] https://github.com/staceyjf/WWW_python_challenge
+- **Women who code Cloud Bingo challenge** - as part of this I am studying to get my  
 
 ### 📫 How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
