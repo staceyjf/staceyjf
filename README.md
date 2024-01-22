@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/staceyfanner/">🌐 LinkedIn</a> •
   <a href="https://staceyfanner.com/">👨‍💻 Portfolio</a> •
   <a href="mailto:staceyfanner@gmail.com">📫 Contact</a>
+   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Project board</a>
 </p>
 
 ### 🎨 Design ethos
