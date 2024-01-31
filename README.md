@@ -5,14 +5,14 @@
   <a href="https://www.linkedin.com/in/staceyfanner/">🌐 LinkedIn</a> •
   <a href="https://staceyfanner.com/">👨‍💻 Portfolio</a> •
   <a href="mailto:staceyfanner@gmail.com">📫 Contact</a>  •
-  <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Project board</a>
+  <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a>
 </p>
 
 ### 🎨 Design ethos
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### 🌱 Learning and Exploring
-- I am currently diving into CI/CD by setting up GitHub Actions as a pipleline and how I can use Github Issues and Project as a basis for Agile practices. Check out my sprints to see what I'm working on in this iteration. [Git repo](https://github.com/users/staceyjf/projects/4/views/3)
+- I am currently diving into CI/CD by setting up GitHub Actions as a pipleline and how I can use Github Issues and Project as a basis for Agile practices (experimenting with Kanban). Check out my Kanban board to see what cards I'm working on. [Git repo](https://github.com/users/staceyjf/projects/4/views/3)
 - I am also passionate about Clean Code, so I'm working on integrating testing into my development [Git repo](https://github.com/staceyjf/jestTesting).
 
 ### 🚀 Key Projects
