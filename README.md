@@ -17,10 +17,10 @@ With a background in communication planning, I bring a human-centric approach to
 
 ### 🚀 Key Projects
 Explore some of my key projects at https://staceyfanner.com/ 
-- **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Live Demo](https://maydaymum.staceyfanner.com/) [Source Code](https://github.com/staceyjf/maydayMum)
+- **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Source Code](https://github.com/staceyjf/maydayMum)
 
 ### Currently working on
-- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Live Demo](https://plant.staceyfanner.com/)  [Source Code](https://github.com/staceyjf/foliageAnalyst)
+- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub[Source Code](https://github.com/staceyjf/foliageAnalyst)
 - **Women who code Python 60 day challenge** [Source Code](https://github.com/staceyjf/WWW_python_challenge)
 - **Women who code Cloud Bingo challenge** - as part of this I am studying to get my AWS cloud practitioner certificate 
 
