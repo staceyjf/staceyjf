@@ -12,7 +12,7 @@
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### Currently working on
-- **_nology's career switchers software engineering programme** 
+- _nology's career switchers software engineering programme 
 
 ### 🌱 Learning and Exploring
 - I am currently preparing for my new jounrey as a nologist - watch this space!
@@ -20,7 +20,7 @@ With a background in communication planning, I bring a human-centric approach to
 ### 🚀 Key Projects
 Explore some of my key projects at https://staceyfanner.com/ 
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Source Code](https://github.com/staceyjf/maydayMum)
-- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub[Source Code](https://github.com/staceyjf/foliageAnalyst)
+- **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Source Code](https://github.com/staceyjf/foliageAnalyst)
   
 ### 📫 How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
