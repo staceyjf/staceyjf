@@ -15,7 +15,7 @@ With a background in communication planning, I bring a human-centric approach to
 - _nology's career switchers software engineering programme 
 
 ### 🌱 Learning and Exploring
-- I am currently preparing for my new jounrey as a nologist - watch this space!
+- Revisiting the fundamentals of HTML, CSS and JavaScript
 
 ### 🚀 Key Projects
 Explore some of my key projects at https://staceyfanner.com/ 
