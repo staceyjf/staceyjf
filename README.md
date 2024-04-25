@@ -15,7 +15,8 @@ With a background in communication planning, I bring a human-centric approach to
 - _nology's career switchers software engineering programme 
 
 ### 🌱 Learning and Exploring
-- Revisiting the fundamentals of HTML, CSS and JavaScript
+- Learning the foundations of Java
+- Expanding and deepening my React foundation for frontdend
 
 ### 🚀 Key Projects
 Explore some of my key projects at https://staceyfanner.com/ 
