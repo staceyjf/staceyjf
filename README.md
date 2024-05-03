@@ -15,10 +15,13 @@ With a background in communication planning, I bring a human-centric approach to
 
 ### 🌱 Learning and Exploring
 - Learning the foundations of Java
-- Expanding and deepening my React foundation for frontdend
+- Building Java powered APIs with Spring
 
 ### 🚀 Key Projects
-Explore some of my key projects at https://staceyfanner.com/ 
+nology projects:
+- **theMarketPlace**: a react front-end luxury fashion ecom store. Tech Stack: React, FireStore, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theMarketPlace) [Live Site](https://portfolio.staceyfanner.com/theMarketPlace/)
+- **theBookVerse**: a react-based app that lets users browse and explore their favourite books.  Tech Stack: React, Goolge Books API, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theBookVerse) [Live Site](https://portfolio.staceyfanner.com/theBookVerse/)
+Personal projects:
 - **Happily Ever Avatar**: A light hearted vanilla JS, CSS & HTML project, leveraging the Replicate API to enable users to effortlessly upload images and generate their own personalized avatars.  Tech Stack: JavaScript, CSS, HTML, Instant-ID AI, Git & GitHub [Source Code](https://github.com/staceyjf/happilyEverAvatar) [Live Site](https://avatar.staceyfanner.com/)
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Source Code](https://github.com/staceyjf/maydayMum)
 - **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Source Code](https://github.com/staceyjf/foliageAnalyst)
