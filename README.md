@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/staceyfanner/">🌐 LinkedIn</a> •
-  <a href="https://portfolio.staceyfanner.com/">👨‍💻 Portfolio</a> •
+  <a href="https://www.staceyfanner.com/">👨‍💻 Portfolio</a> •
   <a href="mailto:staceyfanner@gmail.com">📫 Contact</a>  •
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
 </p>
