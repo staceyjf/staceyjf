@@ -16,7 +16,7 @@ With a background in communication planning, I bring a human-centric approach to
 
 ### Key Projects
 nology projects:
-**JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface (CLI) [Source Code] (https://github.com/staceyjf/javaMineField)
+**JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface [Source Code](https://github.com/staceyjf/javaMineField)
 - **theMarketPlace**: a react front-end luxury fashion ecom store. Tech Stack: React, FireStore, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theMarketPlace) [Live Site](https://www.staceyfanner.com/theMarketPlace/)
 - **theBookVerse**: a react-based app that lets users browse and explore their favourite books.  Tech Stack: React, Goolge Books API, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theBookVerse) [Live Site](https://www.staceyfanner.com/theBookVerse/)
   
