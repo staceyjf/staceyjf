@@ -12,15 +12,15 @@ With a background in communication planning, I bring a human-centric approach to
 
 ### Currently working on
 - _nology's career switchers software engineering programme 
-- Learning the foundations of Java and putting them into practice by building RESTful APIs with Spring Boot
+- Working on the _nology client project and currently building a dev tool functionality for the Nest.JS backend.
 
 ### Key Projects
 nology projects:
-- **theMarketPlace**: a react front-end luxury fashion ecom store. Tech Stack: React, FireStore, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theMarketPlace) [Live Site](https://portfolio.staceyfanner.com/theMarketPlace/)
-- **theBookVerse**: a react-based app that lets users browse and explore their favourite books.  Tech Stack: React, Goolge Books API, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theBookVerse) [Live Site](https://portfolio.staceyfanner.com/theBookVerse/)
+**JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface (CLI) [Source Code] (https://github.com/staceyjf/javaMineField)
+- **theMarketPlace**: a react front-end luxury fashion ecom store. Tech Stack: React, FireStore, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theMarketPlace) [Live Site](https://www.staceyfanner.com/theMarketPlace/)
+- **theBookVerse**: a react-based app that lets users browse and explore their favourite books.  Tech Stack: React, Goolge Books API, JavaScript, Git & GitHub [Source Code](https://github.com/staceyjf/theBookVerse) [Live Site](https://www.staceyfanner.com/theBookVerse/)
   
  Personal projects:
-- **Happily Ever Avatar**: A light hearted vanilla JS, CSS & HTML project, leveraging the Replicate API to enable users to effortlessly upload images and generate their own personalized avatars.  Tech Stack: JavaScript, CSS, HTML, Instant-ID AI, Git & GitHub [Source Code](https://github.com/staceyjf/happilyEverAvatar) [Live Site](https://avatar.staceyfanner.com/)
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  [Source Code](https://github.com/staceyjf/maydayMum)
 - **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub [Source Code](https://github.com/staceyjf/foliageAnalyst)
   
