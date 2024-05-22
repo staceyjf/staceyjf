@@ -1,4 +1,4 @@
-<img src="./header.gif" alt="header" width="40" height="40"/>
+<img src="./header.gif" alt="header" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/staceyfanner/">🌐 LinkedIn</a> •
