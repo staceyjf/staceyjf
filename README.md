@@ -1,7 +1,9 @@
 <img src="./header.gif" alt="header" />
 
 <p align="center">
-  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)(https://www.linkedin.com/in/staceyfanner/)
+  <a href="https://www.linkedin.com/in/staceyfanner/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn Badge">
+  </a>
   <a href="https://www.staceyfanner.com/">👨‍💻 Portfolio</a> •
   <a href="mailto:staceyfanner@gmail.com">📫 Contact</a>  •
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
