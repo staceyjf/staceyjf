@@ -4,7 +4,9 @@
   <a href="https://www.linkedin.com/in/staceyfanner/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.staceyfanner.com/">👨‍💻 Portfolio</a> 
+<a href="https://www.staceyfanner.com/">
+  <img src="https://img.shields.io/badge/Portfolio-4051B5?logo=customink&logoColor=fff&style=flat" alt="Portfolio Badge">
+</a>
 <a href="mailto:staceyfanner@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge">
 </a>
