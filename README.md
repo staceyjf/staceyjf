@@ -5,7 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn Badge">
   </a>
   <a href="https://www.staceyfanner.com/">👨‍💻 Portfolio</a> 
-  <a href="mailto:staceyfanner@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)</a>  
+<a href="mailto:staceyfanner@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge">
+</a>
+
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
 </p>
 
