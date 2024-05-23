@@ -1,15 +1,15 @@
 <img src="./header.gif" alt="header" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/staceyfanner/">
+ <a href="https://www.linkedin.com/in/staceyfanner/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-<a href="https://www.staceyfanner.com/">
-  <img src="https://img.shields.io/badge/Portfolio-4051B5?logo=customink&logoColor=fff&style=flat" alt="Portfolio Badge">
-</a>
-<a href="mailto:staceyfanner@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-</a>
+  <a href="https://www.staceyfanner.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Portfolio Badge">
+  </a>
+  <a href="mailto:staceyfanner@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
 </p>
