@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Portfolio-4051B5?logo=customink&logoColor=fff&style=flat" alt="Portfolio Badge">
 </a>
 <a href="mailto:staceyfanner@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
