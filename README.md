@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/staceyfanner/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 <a href="https://www.staceyfanner.com/">
   <img src="https://img.shields.io/badge/Portfolio-4051B5?logo=customink&logoColor=fff&style=flat" alt="Portfolio Badge">
