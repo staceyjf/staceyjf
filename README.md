@@ -77,6 +77,3 @@ Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, op
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>](https://www.linux.org/)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Spring Boot" width="40" height="40"/>](https://www.figma.com/)
 [<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>](https://aws.amazon.com/)
-
-### Github:
-[https://github-readme-stats.vercel.app/api/top-langs/?username=staceyjf&theme=blue-green](https://github-readme-stats.vercel.app/api?username=staceyfanner&theme=blue-green)
