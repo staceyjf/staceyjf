@@ -18,8 +18,7 @@
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### Currently working on
-- _nology's career switchers software engineering programme 
-- Working on the _nology client project and currently building a dev tool functionality for the Nest.JS backend.
+- Having just completed the nology career switcher's programme, I'm putting my newly enhanced development skills into action by building a full stack React / Spring Todo app.
 
 ### Key Projects
 nology projects:
