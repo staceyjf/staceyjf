@@ -18,10 +18,13 @@
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### Currently working on
-- Having just completed the nology career switcher's programme, I'm putting my newly enhanced development skills into action by building a full stack React / Spring Todo app.
+- Having just completed the nology career switcher's programme, I'm exploring Docker and working on getting my full-stack Todo app deployed.
 
 ### Key Projects
-nology projects:
+
+- **Spring Tasker**: a full-stack Todo app to make keeping up todate with your daily tasks that much easier.
+    - Tech Stack: React, SpringBoot, TypeScript, React Testing Library, mySQL Log4J2, OpenAPI Git & GitHub 
+    - [Source Code](https://github.com/staceyjf/SpringTasker)
 - **JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface
     - Tech Stack: Java
     - [Source Code](https://github.com/staceyjf/javaMineField)
@@ -29,12 +32,6 @@ nology projects:
     - Tech Stack: React, FireStore, JavaScript, Git & GitHub 
     - [Source Code](https://github.com/staceyjf/theMarketPlace) 
     - [Live Site](https://www.staceyfanner.com/theMarketPlace/)
-- **theBookVerse**: a react-based app that lets users browse and explore their favourite books.
-    - Tech Stack: React, Goolge Books API, JavaScript, Git & GitHub 
-    - [Source Code](https://github.com/staceyjf/theBookVerse) 
-    - [Live Site](https://www.staceyfanner.com/theBookVerse/)
-  
- Personal projects:
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. 
     - Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  
     - [Source Code](https://github.com/staceyjf/maydayMum)
