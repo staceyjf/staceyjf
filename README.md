@@ -18,7 +18,7 @@
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
 ### Currently working on
-- Having just completed the nology career switcher's programme, I'm exploring Docker and working on getting my full-stack Todo app deployed.
+- Having just completed the nology career switcher's programme, I'm building my second Spring Boot API. Check out my progress are: [Source Code](https://github.com/staceyjf/PostCheck-API)
 
 ### Key Projects
 
