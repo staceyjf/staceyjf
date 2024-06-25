@@ -17,8 +17,10 @@
 ### Design ethos
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
-### Currently working on
-- Having just completed the nology career switcher's programme, I'm building my second Spring Boot API with a postcode checker api. Check out my progress here: [Source Code](https://github.com/staceyjf/PostCheck-API)
+### Currently working on PostCheck (an API to help client source postcode and suburbs with ease)
+- I am working on my second Spring Boot API powered by sqlite with a Typescript React front end. I'm in the process of deploying with Google run: [Source Code](https://github.com/staceyjf/PostCheck-API)
+- I have also been working on an alternate Flask API for Postcheck front end to brush up on my Python skills and also cement my learning around JWT and how it can be implemented across different frameworks: [Source Code](https://github.com/staceyjf/PostCheck-API-Flask)
+- I have deployed my front end with GH-Pages but it has been connected to a backend yet so a WIP:  [Source Code](https://github.com/staceyjf/Postcheck-front)
 
 ### Key Projects
 
