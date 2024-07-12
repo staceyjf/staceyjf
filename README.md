@@ -17,15 +17,16 @@
 ### Design ethos
 With a background in communication planning, I bring a human-centric approach to software development. I believe that aligning the needs and experiences of end-users with business objectives in software design will yield greater tangible value and positive outcomes in adoption, ultimately leading to product success.
 
-### Currently working on PostCheck (an API to help client source postcode and suburbs with ease)
-- I have recently built a second Spring Boot API powered by sqlite. Deployed with Google Run: [Source Code](https://github.com/staceyjf/PostCheck-API)
-- I have also been working on an alternate Flask API for the Postcheck front end to brush up on my Python skills and also cement my learning around JWT and how it can be implemented across different frameworks: [Source Code](https://github.com/staceyjf/PostCheck-API-Flask)
-- Front end Typescript / React is deployed with GH: [Source Code](https://github.com/staceyjf/Postcheck-front) [Live site](https://www.staceyfanner.com/Postcheck-front/)
+### Currently working on Employee Management full-stack app
+- Check out my progress at [https://github.com/staceyjf/WorkWave-backend](https://github.com/staceyjf/WorkWave-backend)
 
 ### Key Projects
-
+- **Postcheck API**: a full-stack postcode and suburb checker that makes finding postcodes and suburbs a breeze.
+    - Tech Stack: SpringBoot, sqlite,, Log4J2, OpenAPI, Git & GitHub [Source Code](https://github.com/staceyjf/PostCheck-API) 
+    - Tech Stack: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub [Source Code](https://github.com/staceyjf/PostCheck-API-Flask)
+    - Front-end: React, TypeScript, React Testing Library, Git & GitHub [Source Code](https://github.com/staceyjf/Postcheck-front) [Live site](https://www.staceyfanner.com/Postcheck-front/)
 - **Spring Tasker**: a full-stack Todo app to make keeping up todate with your daily tasks that much easier.
-    - Tech Stack: React, SpringBoot, TypeScript, React Testing Library, mySQL Log4J2, OpenAPI Git & GitHub 
+    - Tech Stack: React, SpringBoot, TypeScript, React Testing Library, mySQL Log4J2, OpenAPI, Git & GitHub 
     - [Source Code](https://github.com/staceyjf/SpringTasker)
 - **JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface
     - Tech Stack: Java
