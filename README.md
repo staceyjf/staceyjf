@@ -27,17 +27,17 @@ I believe that aligning the needs and experiences of end-users with business obj
 
 ### Key Projects
 - **Postcheck API**: a full-stack postcode and suburb checker that makes finding postcodes and suburbs a breeze.
-- Explore the live Demo here:
-      - [Live site](https://www.staceyfanner.com/Postcheck-front/)
-**Note: The initial loading time may be slow as I am using the free tier of Azure App Services, so you may see the loading skeleton for an extended period.**
-- Backend: I explored the differences between opinionated and unopinionated frameworks by building the backend in Flask (Python) and Spring Boot (Java):
-    - Python: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub
+    - Explore the live Demo here: [Live site](https://www.staceyfanner.com/Postcheck-front/)
+    - **Note: The initial loading time may be slow as I am using the free tier of Azure App Services, so you may see the loading skeleton for an extended period.**
+    - Backend: I explored the differences between opinionated and unopinionated frameworks by building the backend in Flask (Python) and Spring Boot (Java):
+      - Python: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub
       - [Source Code](https://github.com/staceyjf/PostCheck-API-Flask)
-    - Java: SpringBoot, sqlite, Log4J2, OpenAPI, Git & GitHub
+      - Java: SpringBoot, sqlite, Log4J2, OpenAPI, Git & GitHub
       - [Source Code](https://github.com/staceyjf/PostCheck-API) 
-- Front-end:
-    - React, TypeScript, React Testing Library, Git & GitHub
-      - [Source Code](https://github.com/staceyjf/Postcheck-front) 
+    - Front-end:
+      - React, TypeScript, React Testing Library, Git & GitHub
+      - [Source Code](https://github.com/staceyjf/Postcheck-front)
+         
 - **Spring Tasker**: a full-stack Todo app to make keeping up todate with your daily tasks that much easier.
     - Tech Stack: React, SpringBoot, TypeScript, React Testing Library, mySQL Log4J2, OpenAPI, Git & GitHub 
       - [Source Code](https://github.com/staceyjf/SpringTasker)
