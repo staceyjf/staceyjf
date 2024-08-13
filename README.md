@@ -28,7 +28,7 @@ I believe that aligning the needs and experiences of end-users with business obj
 ### Key Projects
 - **Postcheck API**: a full-stack postcode and suburb checker that makes finding postcodes and suburbs a breeze.
 - Explore the live Demo here:
-     - [Live site](https://www.staceyfanner.com/Postcheck-front/)
+      - [Live site](https://www.staceyfanner.com/Postcheck-front/)
 **Note: The initial loading time may be slow as I am using the free tier of Azure App Services, so you may see the loading skeleton for an extended period.**
 - Backend: I explored the differences between opinionated and unopinionated frameworks by building the backend in Flask (Python) and Spring Boot (Java):
     - Python: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub
@@ -40,20 +40,20 @@ I believe that aligning the needs and experiences of end-users with business obj
       - [Source Code](https://github.com/staceyjf/Postcheck-front) 
 - **Spring Tasker**: a full-stack Todo app to make keeping up todate with your daily tasks that much easier.
     - Tech Stack: React, SpringBoot, TypeScript, React Testing Library, mySQL Log4J2, OpenAPI, Git & GitHub 
-    - [Source Code](https://github.com/staceyjf/SpringTasker)
+      - [Source Code](https://github.com/staceyjf/SpringTasker)
 - **JavaField**: a classic Minesweeper game powered by Java and played in the command-line interface
     - Tech Stack: Java
-    - [Source Code](https://github.com/staceyjf/javaMineField)
+      - [Source Code](https://github.com/staceyjf/javaMineField)
 - **theMarketPlace**: a react front-end luxury fashion ecom store.
     - Tech Stack: React, FireStore, JavaScript, Git & GitHub 
-    - [Source Code](https://github.com/staceyjf/theMarketPlace) 
-    - [Live Site](https://www.staceyfanner.com/theMarketPlace/)
+      - [Source Code](https://github.com/staceyjf/theMarketPlace) 
+      - [Live Site](https://www.staceyfanner.com/theMarketPlace/)
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. 
     - Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  
-    - [Source Code](https://github.com/staceyjf/maydayMum)
+       - [Source Code](https://github.com/staceyjf/maydayMum)
 - **Foliage Analyst**: A python-powered, go-to platform for plant enthusiasts seeking a seamless solution to monitor and nurture their leafy companions.  
     - Tech Stack: PostgreSQL, Django, AWS, unittest, Bootstrap 5, Crispy HTML5, CSS, Git & GitHub 
-    - [Source Code](https://github.com/staceyjf/foliageAnalyst)
+       - [Source Code](https://github.com/staceyjf/foliageAnalyst)
   
 ### How to Reach Me
 Feel free to reach out to me at **staceyfanner@gmail.com** for collaboration, opportunities, or just to say hello! I'm always open to connecting with fellow developers and enthusiasts.
