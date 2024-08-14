@@ -31,6 +31,7 @@ I believe that aligning the needs and experiences of end-users with business obj
     - Admin user details for logging in:
        - username: admin
        - password: admin1234
+       - _Please note that I am using the free tier of Azure Web app so it can take a while to load_
     - **Note: The initial loading time may be slow as I am using the free tier of Azure App Services, so you may see the loading skeleton for an extended period.**
     - Backend: I explored the differences between opinionated and unopinionated frameworks by building the backend in Flask (Python) and Spring Boot (Java):
       - Python: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub
