@@ -4,17 +4,12 @@
  <a href="https://www.linkedin.com/in/staceyfanner/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.staceyfanner.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-FFB387?style=for-the-badge&logoColor=black" alt="Portfolio Badge">
-  </a>
   <a href="mailto:staceyfanner@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 
 <!--   <a href="https://github.com/users/staceyjf/projects/4/views/3">📝 Personal Kanban board</a> -->
 </p>
-
-### Currently visiting family in the UK, so progress is slower than usual.
 
 ### Design ethos
 With a background in communication planning, I bring a human-centric approach to software development. 
