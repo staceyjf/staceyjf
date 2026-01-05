@@ -16,18 +16,8 @@ With a background in communication planning, I bring a human-centric approach to
 
 I believe that aligning the needs and experiences of end-users with business objectives in software design leads to greater tangible value, improved adoption, and ultimately, product success.
 
-### Currently working on Employee Management full-stack app
-- Check out my progress on the backend here: [https://github.com/staceyjf/WorkWave-backend](https://github.com/staceyjf/WorkWave-backend)
-- Next steps: Integrating Redux for state management to the front-end. I've been following the official Redux Vite Toolbox tutorial and am excited to apply what I’ve learned to the front-end of this app.
-
 ### Key Projects
 - **Postcheck API**: a full-stack postcode and suburb checker that makes finding postcodes and suburbs a breeze.
-    - Explore the live Demo here: [Live site](https://www.staceyfanner.com/Postcheck-front/)
-    - Admin user details for logging in:
-       - username: admin
-       - password: admin1234
-       - _Please note that I am using the free tier of Azure Web app so it can take a while to load_
-    - **Note: The initial loading time may be slow as I am using the free tier of Azure App Services, so you may see the loading skeleton for an extended period.**
     - Backend: I explored the differences between opinionated and unopinionated frameworks by building the backend in Flask (Python) and Spring Boot (Java):
       - Python: Flask, mySQL, pyspark, Flask-smoreish, Git & GitHub
       - [Source Code](https://github.com/staceyjf/PostCheck-API-Flask)
@@ -46,7 +36,6 @@ I believe that aligning the needs and experiences of end-users with business obj
 - **theMarketPlace**: a react front-end luxury fashion ecom store.
     - Tech Stack: React, FireStore, JavaScript, Git & GitHub 
       - [Source Code](https://github.com/staceyjf/theMarketPlace) 
-      - [Live Site](https://www.staceyfanner.com/theMarketPlace/)
 - **Mayday Mum**: A JavaScript-powered childcare booking platform featuring token-based user authentication, designed to simplify the process of securing trusted childcare services for parents and caregivers. 
     - Tech Stack: MongoDB, Mongoose, Express, React, Node.js, Material UI, HTML5, CSS, Git & GitHub  
        - [Source Code](https://github.com/staceyjf/maydayMum)
